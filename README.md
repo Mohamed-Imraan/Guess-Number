@@ -4,11 +4,13 @@
 > The player tries to guess the secret number between 1 and 10, with a starting score of 10.
 
 ---
-
-<a href="https://guess-number-lucky-game.vercel.app/"><img width="1536" height="1024" alt="Thumbnail_game" src="https://github.com/user-attachments/assets/6606aa52-a9ef-48f1-b7c7-9bee1e18e660" />
+## <a href="https://www.linkedin.com/posts/mohamed-imraan-full-stack-developer_after-a-long-day-i-got-back-to-%F0%9D%90%89%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%92%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AD-ugcPost-7451831298941165568-zkLG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFY3K0cBU_78C0iKCc_Q5cnqtXRuF44rzCg">
+<img width="1536" height="1024" alt="Thumbnail_game" src="https://github.com/user-attachments/assets/6606aa52-a9ef-48f1-b7c7-9bee1e18e660" />
 </a>
 
-## 🔗 Live demo : https://guess-number-lucky-game.vercel.app/
+## 🔗 Live demo: https://guess-number-lucky-game.vercel.app/
+
+---
 
 ## 🚀 Features
 - 🎮 Random number generation between 1–10
@@ -18,15 +20,17 @@
 - 🔄 Reset by refreshing the page
 
 ---
-/.,mbc 
+
 ## 🛠️ Tech Stack
 - **HTML5** – Game structure
 - **CSS3** – Styling and animations
 - **JavaScript (ES6)** – Game logic
 
 ---
+
 ## Prpject Preview
 <table>
+
   <tr>
     <td><img width="623" height="542" alt="Landing page" src="https://github.com/user-attachments/assets/9b8f81bb-8c1b-4986-8a6b-accad1a4df29" />
 </td>
@@ -41,4 +45,3 @@
   </tr>
 </table>
 
-## <a href="https://www.linkedin.com/posts/mohamed-imraan-full-stack-developer_after-a-long-day-i-got-back-to-%F0%9D%90%89%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%92%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AD-ugcPost-7451831298941165568-zkLG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFY3K0cBU_78C0iKCc_Q5cnqtXRuF44rzCg">Demo video 🎮 </a>
